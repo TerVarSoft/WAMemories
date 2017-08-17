@@ -1,6 +1,6 @@
 /* Time */
 
-var messagesIntervalTimer = 50;
+var messagesIntervalTimer = 1200;
 
 var emojis = [
     {code:':b',class:'lengua'},
