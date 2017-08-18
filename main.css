@@ -2,6 +2,10 @@
   box-sizing: inherit;
 }
 
+html, body {
+   overflow-y: hidden;
+}
+
 html {
   box-sizing: border-box;
   height: 100%;
